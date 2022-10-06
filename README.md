@@ -1,2 +1,7 @@
 # Funciones-lambda
-Hacer varios reos con funciones
+Hacer varios retos con funciones
+
+## Integrantes
+
+- Luis Alberto Rios Vanegas
+- Octavio Alexander Morales Giraldo
